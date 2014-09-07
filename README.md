@@ -4,7 +4,7 @@ El_juego_de_la_vida
 C++   Ejemplo de un autómata celular.
 
 
-ENUNCIADO: El juego de la vida [1] es un ejemplo de un autómata celular, diseñado por el
+ENUNCIADO: El juego de la vida es un ejemplo de un autómata celular, diseñado por el
 matemático británico John Horton Conway en 1979. Un autómata celular es un modelo matemático
 que modela a un sistema dinámico que evoluciona en pasos discretos.
 
